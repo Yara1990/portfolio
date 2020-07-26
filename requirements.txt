@@ -8,3 +8,7 @@ pytz==2019.3
 requests==2.23.0
 sqlparse==0.3.1
 urllib3==1.25.9
+<<<<<<< HEAD
+=======
+whitenoise==2.0.6
+>>>>>>> b46edab136af85c921e0d9882650561e351380c4
